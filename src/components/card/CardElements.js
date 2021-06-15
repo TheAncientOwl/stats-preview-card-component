@@ -23,7 +23,7 @@ export const CardImageWrapper = styled.section`
 export const CardImage = styled.img`
   width: 100%;
   height: 100%;
-  filter: invert(9%) sepia(9%) saturate(4763%) hue-rotate(208deg) brightness(70%) contrast(100%);
+  filter: invert(15%) sepia(55%) saturate(550%) hue-rotate(240deg) brightness(60%) contrast(100%);
 `;
 
 export const CardContent = styled.section`
