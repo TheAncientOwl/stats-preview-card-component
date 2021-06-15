@@ -1,3 +1,10 @@
+@import url('https://fonts.google.com/specimen/Inter');
+
 ::-webkit-scrollbar {
   display: none;
+}
+
+body {
+  background: hsl(233, 47%, 7%);
+  margin: 0;
 }
