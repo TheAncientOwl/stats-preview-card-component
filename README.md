@@ -39,4 +39,4 @@ I learnt more about some flexbox properties.
 
 ## Author
 
-- Frontend Mentor - [@TheAncientOwl](https://github.com/TheAncientOwl)
+- [@TheAncientOwl](https://github.com/TheAncientOwl)
