@@ -1,7 +1,21 @@
 {
-  "main.css": "static/css/main.c5c718fc.css",
-  "main.css.map": "static/css/main.c5c718fc.css.map",
-  "main.js": "static/js/main.e4866f88.js",
-  "main.js.map": "static/js/main.e4866f88.js.map",
-  "static/media/image-header-desktop.jpg": "static/media/image-header-desktop.37a5b4c3.jpg"
+  "files": {
+    "main.css": "/stats-preview-card-component/static/css/main.3941e37a.chunk.css",
+    "main.js": "/stats-preview-card-component/static/js/main.2471435a.chunk.js",
+    "main.js.map": "/stats-preview-card-component/static/js/main.2471435a.chunk.js.map",
+    "runtime-main.js": "/stats-preview-card-component/static/js/runtime-main.43dab748.js",
+    "runtime-main.js.map": "/stats-preview-card-component/static/js/runtime-main.43dab748.js.map",
+    "static/js/2.e69ff6c0.chunk.js": "/stats-preview-card-component/static/js/2.e69ff6c0.chunk.js",
+    "static/js/2.e69ff6c0.chunk.js.map": "/stats-preview-card-component/static/js/2.e69ff6c0.chunk.js.map",
+    "index.html": "/stats-preview-card-component/index.html",
+    "static/css/main.3941e37a.chunk.css.map": "/stats-preview-card-component/static/css/main.3941e37a.chunk.css.map",
+    "static/js/2.e69ff6c0.chunk.js.LICENSE.txt": "/stats-preview-card-component/static/js/2.e69ff6c0.chunk.js.LICENSE.txt",
+    "static/media/image-header-desktop.72d6e2a0.jpg": "/stats-preview-card-component/static/media/image-header-desktop.72d6e2a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43dab748.js",
+    "static/js/2.e69ff6c0.chunk.js",
+    "static/css/main.3941e37a.chunk.css",
+    "static/js/main.2471435a.chunk.js"
+  ]
 }
