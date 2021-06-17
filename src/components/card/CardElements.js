@@ -14,6 +14,7 @@ export const CardContainer = styled.div`
 `;
 
 export const CardImageWrapper = styled.section`
+  background-color: ${({ theme }) => theme.accent};
   width: 50%;
   @media (max-width: ${Breakpoints.mobile}) {
     width: 100%;
@@ -23,7 +24,8 @@ export const CardImageWrapper = styled.section`
 export const CardImage = styled.img`
   width: 100%;
   height: 100%;
-  filter: invert(15%) sepia(55%) saturate(550%) hue-rotate(240deg) brightness(60%) contrast(100%);
+  opacity: 75%;
+  mix-blend-mode: multiply;
 `;
 
 export const CardContent = styled.section`
