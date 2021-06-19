@@ -29,7 +29,7 @@ export const CardImage = styled.img`
 `;
 
 export const CardContent = styled.section`
-  font-family: 'Inter', cursive;
+  font-family: 'Inter', sans-serif;
   max-width: 32%;
   margin: 0 auto;
   padding-bottom: 1em;
